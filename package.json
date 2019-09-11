@@ -17,8 +17,8 @@
   "bugs": "https://github.com/flesler/node-spider/issues",
   "repository": "git://github.com/flesler/node-spider.git",
   "dependencies": {
-    "cheerio": "0.19.x",
-    "request": "2.61.x"
+    "cheerio": "1.0.0-rc.3",
+    "request": "2.88.x"
   },
   "devDependencies": {
     "chai": "^3.4.0",
